@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-generator/static/css/main.2cb560bb.css",
+    "main.js": "/random-generator/static/js/main.20408c0a.js",
+    "index.html": "/random-generator/index.html",
+    "main.2cb560bb.css.map": "/random-generator/static/css/main.2cb560bb.css.map",
+    "main.20408c0a.js.map": "/random-generator/static/js/main.20408c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb560bb.css",
+    "static/js/main.20408c0a.js"
+  ]
+}
